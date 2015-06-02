@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6751" systemVersion="14C1510" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="P5a-Lz-Lv0">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7706" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="P5a-Lz-Lv0">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
         <capability name="Alignment constraints with different attributes" minToolsVersion="5.1"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
@@ -177,12 +177,12 @@
                             <mask key="constraints">
                                 <exclude reference="ZXT-hV-aej"/>
                                 <exclude reference="rxl-Bh-jqr"/>
-                                <exclude reference="Xvb-Zz-ZV1"/>
-                                <exclude reference="b2y-a7-N97"/>
                                 <exclude reference="OLR-et-QAx"/>
                                 <exclude reference="dhx-qO-ba3"/>
                                 <exclude reference="6wA-UK-A8q"/>
                                 <exclude reference="F1B-Ac-9PP"/>
+                                <exclude reference="Xvb-Zz-ZV1"/>
+                                <exclude reference="b2y-a7-N97"/>
                                 <exclude reference="Iuy-gt-dUP"/>
                                 <exclude reference="eSw-qc-8tc"/>
                             </mask>
@@ -198,12 +198,12 @@
                             <mask key="constraints">
                                 <include reference="ZXT-hV-aej"/>
                                 <include reference="rxl-Bh-jqr"/>
-                                <include reference="Xvb-Zz-ZV1"/>
-                                <include reference="b2y-a7-N97"/>
                                 <include reference="OLR-et-QAx"/>
                                 <include reference="dhx-qO-ba3"/>
                                 <include reference="6wA-UK-A8q"/>
                                 <include reference="F1B-Ac-9PP"/>
+                                <include reference="Xvb-Zz-ZV1"/>
+                                <include reference="b2y-a7-N97"/>
                                 <include reference="Iuy-gt-dUP"/>
                                 <include reference="eSw-qc-8tc"/>
                             </mask>

@@ -84,6 +84,7 @@ class RecordSoundsViewController: UIViewController, AVAudioRecorderDelegate {
         audioRecorder.stop()
         var audioSession = AVAudioSession.sharedInstance();
         audioSession.setActive(false, error: nil)
+        
     }
 }
 
